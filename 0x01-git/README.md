@@ -1,4 +1,2 @@
-#updated README file 
-This is a project on how to setup your git and github account.
-### This include creating a directory named alx-pre_course.
-Thanks
+ update_script
+Welcome to my repo,this is my first work as an alx software Engineer.
